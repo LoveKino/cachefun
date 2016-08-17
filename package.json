@@ -1,0 +1,31 @@
+{
+  "name": "cachefun",
+  "version": "0.0.1",
+  "description": "cache for computation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoveKino/cachefun.git"
+  },
+  "keywords": [
+    "cache",
+    "function",
+    "computation"
+  ],
+  "author": "ddchen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LoveKino/cachefun/issues"
+  },
+  "homepage": "https://github.com/LoveKino/cachefun#readme",
+  "devDependencies": {
+    "cl-jsoneq": "0.0.2",
+    "mocha": "^3.0.2"
+  },
+  "link_dependencies": {
+    "bolzano": "~0.0.1"
+  }
+}
